@@ -42,7 +42,7 @@ Variability indexes of the seismic images from the reference dataset (a) and of 
 </p>
 
 ## Citation
-> Waiting article for publication...
+> Waiting for publication...
 > 
 ## Contact
 + This repository is written by Dr. Carlos H. S. Barbosa from the [High Performance Computing Center](https://www.nacad.ufrj.br/) and [Laboratory for Computational Methods in Engineering](http://www.lamce.coppe.ufrj.br/) at the [Federal University of Rio de Janeiro](https://ufrj.br/).

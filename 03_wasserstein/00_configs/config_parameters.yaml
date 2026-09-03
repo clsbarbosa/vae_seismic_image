@@ -1,0 +1,12 @@
+paths:
+    convergence_file_path: './../01_mvae/05_results/convergence_file.txt'
+    dataset_path: './../01_mvae/01_full_dataset_patches/'
+    training_dataset_path: './../01_mvae/02_training_dataset_patches/'
+    validation_dataset_path: './../01_mvae/03_validation_dataset_patches/'
+    generated_seismic_images_path: './../01_mvae/05_results/generated_seismic_images/'
+    seismic_image_results: './01_result_plots/'
+
+images:
+    dimension_x: 64
+    dimension_z: 64
+    numberOfSeismicImages: 100

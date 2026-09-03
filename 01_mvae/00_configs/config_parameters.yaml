@@ -1,0 +1,16 @@
+paths:
+    dataset_path: './01_full_dataset_patches/'
+    training_dataset_path: './02_training_dataset_patches/'
+    validation_dataset_path: './03_validation_dataset_patches/'
+    trained_vae_network_path: './05_results/variational_autoencoder_network.pth'
+    convergence_file_path: './05_results/convergence_file.txt'
+    generated_seismic_images_path: './05_results/generated_seismic_images/'
+
+hyperparameters:
+    learning_rate: 0.001
+    epochs: 200
+    batch_size: 200
+    beta: 1.0
+
+generator:
+    numberOfSeismicImages: 5000
